@@ -42,12 +42,7 @@ If you do not rename it correctly, Laragon will not detect phpMyAdmin and the Fo
 ## Access phpMyAdmin
 
 After restarting Laragon, you can access phpMyAdmin via:
-
-- Laragon Menu → **Tools → phpMyAdmin**  
-**OR**
 - Open your browser and go to: http://localhost/phpmyadmin
-
-
 ---
 
 ## Troubleshooting
