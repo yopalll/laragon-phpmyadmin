@@ -2,7 +2,7 @@
 
 ## Introduction
 
-If you encounter **phpMyAdmin Forbidden** or **403 Not Found** errors when using Laragon, this is **normal behavior**.
+If you encounter **phpMyAdmin Forbidden** or **403** errors when using Laragon, this is **normal behavior**.
 
 ⚠️ **Important Notice**  
 Laragon **does NOT include phpMyAdmin by default** in their installer.  
